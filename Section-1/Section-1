@@ -1,0 +1,12 @@
+-> Pengertian NodeJS
+NodeJS adalah software open-source yang bisa digunakan
+untuk membuat aplikasi jaringan dan aplikasi server-side yang real-time dan
+scalable (bisa dikembangkan sesuai kebutuhan).
+
+-> Cara Kerja NodeJS
+NodeJS memiliki alur yang spesifik. Software ini beroperasi dalam satu thread (Single-Threaded
+(Thread adalah Rangkaian instruksi yang perlu dilakukan oleh server)),
+yang berarti tidak membuat thread baru untuk setiap permintaan.
+Daripada memblokir thread dan membuang-buang resource CPU dengan menunggu respons,
+Node JS akan terus mengerjakan tugas berikutnya. Dengan cara ini,
+Node.js bisa menangani sejumlah besar permintaan secara bersamaan.
